@@ -7,15 +7,15 @@
   ],
   "description": "Bower installation for Carmela font",
   "main": [
-    “css/carmela-font.css”,
-    “fonts/carmela-bold-webfont.eot”,
-    “fonts/carmela-bold-webfont.svg”,
-    “fonts/carmela-bold-webfont.ttf”,
-    “fonts/carmela-bold-webfont.woff”,
-    “fonts/carmela-regular-webfont.eot”,
-    “fonts/carmela-regular-webfont.svg”,
-    “fonts/carmela-regular-webfont.ttf”,
-    “fonts/carmela-regular-webfont.woff”
+    "css/carmela-font.css",
+    "fonts/carmela-bold-webfont.eot",
+    "fonts/carmela-bold-webfont.svg",
+    "fonts/carmela-bold-webfont.ttf",
+    "fonts/carmela-bold-webfont.woff",
+    "fonts/carmela-regular-webfont.eot",
+    "fonts/carmela-regular-webfont.svg”",
+    "fonts/carmela-regular-webfont.ttf",
+    "fonts/carmela-regular-webfont.woff"
   ],
   "keywords": [
     "fonts",
